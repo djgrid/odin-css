@@ -1,2 +1,3 @@
 # odin-css
-HTML and CSS Odin Project
+
+This repository contains work done on the Odin Project CSS lessons
